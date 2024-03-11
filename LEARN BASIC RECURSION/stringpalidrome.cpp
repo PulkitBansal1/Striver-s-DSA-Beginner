@@ -4,7 +4,7 @@
 using namespace std;
 bool check(int i, string &s)
 {
-    if(i>=s.length()/2);
+    if(i>=s.length()/2)
     {
         return true;
     }
